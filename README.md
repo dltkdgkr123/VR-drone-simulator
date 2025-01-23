@@ -1,1 +1,0 @@
-# VR-drone-simulator

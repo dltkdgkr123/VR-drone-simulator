@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_racing_dron.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\dudgh\\Desktop\\2020년 졸업작품 팀원 자료들\\최종작업용 프로젝트\\DroneSimulation\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_Racing_Dron [Testing]"
+        }
+      }
+    }
+  ]
+}
